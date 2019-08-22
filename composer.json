@@ -1,0 +1,11 @@
+{
+    "name": "studioone/mobidram",
+    "description": "Mobidram payment",
+    "authors": [
+        {
+            "name": "Armen",
+            "email": "armen.marabyan1@gmail.com"
+        }
+    ],
+    "require": {}
+}
